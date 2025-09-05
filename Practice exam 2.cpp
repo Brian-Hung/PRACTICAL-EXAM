@@ -25,13 +25,11 @@ int main() {
         }
 
         if (dem_uoc == 2) { 
-            printf("%d ", a);
+            printf("No prime number ");
             count++;
         }
     }
 
-    if (count == 0) {
-        printf("No prime number");
-    }
+
 
 }
